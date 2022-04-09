@@ -13,7 +13,7 @@ lists:
       set.ext.response.body.type: 'checking'
       set.ext.response.body.label: 'my checking account'
       set.ext.response.body.balance: 400000
-      set.ext.response.body.help: 'getBalance'
+      set.ext.response.body.helpx: 'getBalanceGit'
 
 - list: createAccount
   steps:

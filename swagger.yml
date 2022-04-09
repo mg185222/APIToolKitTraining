@@ -74,5 +74,5 @@ components:
           enum:
             - checking
             - savings
-        help:
+        helpx:
           type: string
